@@ -7,13 +7,13 @@ I am Mohini, pursuing a MCA in AI & ML at LPU  University of Punjab. I specializ
 
 📖 I enjoy reading real-time fictional conspiracies, Dan Brown to be precise
 
-###🌱 What do I do?
+### 🌱 What do I do?
 
 .AI intern and Ai research
 .Chatbot creater 
 .I work on agent workflow
 
-###⚡What drives my growth?
+### ⚡What drives my growth?
 
 Believing in yourself and staying true to who you are. 😌
 
