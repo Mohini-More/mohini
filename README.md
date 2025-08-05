@@ -1,5 +1,5 @@
 ### Hey there 👋
-I am Mphini, pursuing a MCA in AI & ML at LPU  University of Punjab. I specialize in developing intelligent systems using Generative AI and Agentic AI.
+I am Mohini, pursuing a MCA in AI & ML at LPU  University of Punjab. I specialize in developing intelligent systems using Generative AI and Agentic AI.
 
 👩🏻‍💻 I’m delving into Agentic AI
 
